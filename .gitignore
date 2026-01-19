@@ -1,5 +1,0 @@
-# macOS
-.DS_Store
-
-# Data files - We want to keep the data folder, but ignore the large csv files
-data/*.csv
