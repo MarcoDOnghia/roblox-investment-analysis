@@ -31,3 +31,15 @@ build/
 
 # Output files
 *.log
+.DS_Store
+scripts/test_*.py
+*.pyc
+__pycache__/
+.DS_Store
+scripts/test_*.py
+*.pyc
+__pycache__/
+.DS_Store
+scripts/test_*.py
+*.pyc
+__pycache__/
